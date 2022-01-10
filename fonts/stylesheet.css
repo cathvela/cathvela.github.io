@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'baskervilleroman';
-    src: url('baskervillebt-webfont.woff2') format('woff2'),
-         url('baskervillebt-webfont.woff') format('woff');
+    src: url('fonts/baskervillebt-webfont.woff2') format('woff2'),
+         url('fonts/baskervillebt-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
